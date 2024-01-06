@@ -22,7 +22,7 @@ export default function WeatherWidget() {
 
     return (
         <div className="weather-widget">
-            <h1>Weather Widget DA</h1>
+            <h1>Weather Widget</h1>
             <SearchBox updateWeather={updateWeatherData} />
             <WeatherDisplay weatherData={weatherData} />
         </div>
