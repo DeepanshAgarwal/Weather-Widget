@@ -1,4 +1,5 @@
 import { useState } from "react";
+import React from "react";
 import "./WeatherWidget.css";
 import SearchBox from "./SearchBox";
 import WeatherDisplay from "./WeatherDisplay";
